@@ -9,5 +9,6 @@ public class Test1 {
         System.out.println("xxxxxx");
         System.out.println("qqqqqqqq");
         System.out.println("xioaxiong");
+        System.out.println("longupdatetest");
     }
 }
